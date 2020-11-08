@@ -1,5 +1,4 @@
-***Codewars: Even or Odd - Which is Greater?
-****7 KYU - JavaScript
+***Codewars: Even or Odd - Which is Greater? - 7 KYU - JavaScript
 
 ***Details:
 
